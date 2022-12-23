@@ -13,5 +13,6 @@ public class ProyectoRepaso {
 
     public static void main(String[] args) {
         System.out.println("Repaso día 23/12/2022");
+        System.out.println("Segunda línea");
     }
 }
